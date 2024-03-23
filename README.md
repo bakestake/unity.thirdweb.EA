@@ -1,5 +1,6 @@
 
-## Stake and Bake - unity.beta.v1 - Thirdweb x Earn Alliance integration [[play here](https://snb-kappa2.vercel.app/)]
+## Stake and Bake - unity.beta.v1 - Thirdweb x Earn Alliance integration 
+***[play here](https://snb-kappa2.vercel.app/)***
 
 
 Stake and Bake is a cross-chain DeFi game rewarding chain loyalty and chain-agnostic behaviour simultaneously.
